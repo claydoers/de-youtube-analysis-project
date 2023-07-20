@@ -31,3 +31,7 @@ This dataset includes several months (and counting) of data on daily trending Yo
 The data also includes a category_id field, which varies between regions. To retrieve the categories for a specific video, find it in the associated JSON. One such file is included for each of the five regions in the dataset.
 
 [Dataset on Kaggle ](https://www.kaggle.com/datasets/datasnaek/youtube-new "Youtube Dataset")
+
+## Dashboard Examples
+Placeholder
+
