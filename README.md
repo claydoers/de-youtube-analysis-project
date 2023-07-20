@@ -1,7 +1,7 @@
 # Trending Youtube Videos Data Analysis Project
 
 ## Overview
-This goal of this project was to securely manage, streamline, and perform analysis on structured and semi structured data from YouTube based on trending video statistics by utilizing the AWS service suite. 
+This goal of this project was to securely manage, streamline, and perform analysis on structured and semi structured data from YouTube based on trending video statistics utilizing the AWS service suite. 
 
 ## Goals
 <li>Data Ingestion</li>
