@@ -1,4 +1,4 @@
-# Youtube Data Analysis Project
+# Trending Youtube Videos Data Analysis Project
 
 ## Overview
 This goal of this project was to securely manage, streamline, and perform analysis on structured and semi structured data from YouTube based on trending video statistics.
@@ -12,11 +12,11 @@ This goal of this project was to securely manage, streamline, and perform analys
 <li>Data Visualization/Reporting</li>
 
 ## Tools used
-<ol type=A>
+<ol type=1>
 <li>Amazon S3 - Data lake/Object storage</li>
 <li>AWS IAM - identity access management for resource access management/security.</li>
 <li>AWS Glue - ETL/Data integration service.</li>
-<li>AWS Lambda - Cloud computing service to process our code.</li>
+<li>AWS Lambda - Cloud computing service to process our code so we arent processing it locally.</li>
 <li>AWS Athena - Query service for S3.</li>
 <li>Quicksight - Data visualization & reporting.</li>
 </ol>
