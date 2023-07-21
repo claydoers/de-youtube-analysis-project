@@ -12,14 +12,12 @@ This goal of this project was to securely manage, streamline, and perform analys
 <li>Data Visualization/Reporting</li>
 
 ## Tools used
-<ol type=1>
 <li>Amazon S3 - Data lake/Object storage</li>
 <li>AWS IAM - identity access management for resource access management/security.</li>
 <li>AWS Glue - ETL/Data integration service.</li>
 <li>AWS Lambda - Cloud computing service to process our code so we arent processing it locally.</li>
 <li>AWS Athena - Query service for S3.</li>
 <li>Quicksight - Data visualization & reporting.</li>
-</ol>
 
 ## Architectual Diagram
 ![image](https://github.com/claydoers/de-youtube-analysis-project/assets/109707159/dcb05761-4b22-42f3-a194-bcd9eaafa601)
