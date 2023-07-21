@@ -31,7 +31,8 @@ The data also includes a category_id field, which varies between regions. To ret
 [Dataset on Kaggle ](https://www.kaggle.com/datasets/datasnaek/youtube-new "Youtube Dataset")
 
 ## Dashboard Examples
-
-Dyanamic dashboard that allows user to filter by video category and display results (music category used for the example below).
+<ol type="1">
+  <li>Dyanamic dashboard that allows user to filter by video category and display results (music category used for the example below).</li>
+</ol>
 
 ![image](https://github.com/claydoers/de-youtube-analysis-project/assets/109707159/73cf3648-0825-4e0d-bc98-7fd74c3a0587)
