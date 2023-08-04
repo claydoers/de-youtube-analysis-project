@@ -23,8 +23,6 @@ This goal of this project was to securely manage, streamline, and perform analys
 ## Architectual Diagram
 ![image](https://github.com/claydoers/de-youtube-analysis-project/assets/109707159/dcb05761-4b22-42f3-a194-bcd9eaafa601)
 
-## Overview
-Placeholder
 
 ## Dataset
 This dataset includes several months (and counting) of data on daily trending YouTube videos. Data is included for the US, GB, DE, CA, and FR regions (USA, Great Britain, Germany, Canada, and France, respectively), with up to 200 listed trending videos per day. Each region’s data is in a separate file. Data includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count.
