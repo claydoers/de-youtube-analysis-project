@@ -17,7 +17,7 @@ This goal of this project was to securely manage, streamline, and perform analys
 <li>AWS Glue - ETL/Data integration service.</li>
 <li>AWS Lambda - Cloud computing service to process our code so we arent processing it locally.</li>
 <li>AWS Athena - Query service for S3.</li>
-<li>AWS Python </li>
+<li>Python </li>
 <li>Quicksight - Data visualization & reporting.</li>
 
 ## Architectual Diagram
